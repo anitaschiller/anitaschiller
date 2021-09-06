@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Anita from Munich, Junior Web Developer and Coach for neue fische 🐟! 
+Nice to meet you! 
+
 <!--
 **anitaschiller/anitaschiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
