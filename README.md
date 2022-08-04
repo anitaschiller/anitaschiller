@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Anita from Munich, Junior Web Developer and Coach for neue fische 🐟! 
-Nice to meet you! 
+I'm Anita from Munich, nice to meet you! 
 
 [![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitaschiller)](https://github.com/anitaschiller/github-readme-stats)
 
